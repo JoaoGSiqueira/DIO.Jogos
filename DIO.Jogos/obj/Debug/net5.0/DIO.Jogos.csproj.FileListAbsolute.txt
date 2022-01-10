@@ -1,0 +1,16 @@
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\bin\Debug\net5.0\DIO.Jogos.exe
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\bin\Debug\net5.0\DIO.Jogos.deps.json
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\bin\Debug\net5.0\DIO.Jogos.runtimeconfig.json
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\bin\Debug\net5.0\DIO.Jogos.runtimeconfig.dev.json
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\bin\Debug\net5.0\DIO.Jogos.dll
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\bin\Debug\net5.0\ref\DIO.Jogos.dll
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\bin\Debug\net5.0\DIO.Jogos.pdb
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\obj\Debug\net5.0\DIO.Jogos.csproj.AssemblyReference.cache
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\obj\Debug\net5.0\DIO.Jogos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\obj\Debug\net5.0\DIO.Jogos.AssemblyInfoInputs.cache
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\obj\Debug\net5.0\DIO.Jogos.AssemblyInfo.cs
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\obj\Debug\net5.0\DIO.Jogos.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\obj\Debug\net5.0\DIO.Jogos.dll
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\obj\Debug\net5.0\ref\DIO.Jogos.dll
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\obj\Debug\net5.0\DIO.Jogos.pdb
+D:\Área de Trabalho\VS Code - Projetos\DIO\Projeto\DIO.Jogos\obj\Debug\net5.0\DIO.Jogos.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\João Gabriel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\João Gabriel\\.nuget\\packages",
+      "D:\\Documents\\VisualSTudio2019\\NuGetPackages"
+    ]
+  }
+}

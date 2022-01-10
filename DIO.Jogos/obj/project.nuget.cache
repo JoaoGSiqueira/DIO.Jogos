@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXN5OBGw5+vwnCcPDCqFi4TFjp5Wv5JR73t3/GJavzHPu1c8xpvCTArisAeuGMRw+7rQlOv49rC7Occ8BjEOJg==",
+  "success": true,
+  "projectFilePath": "D:\\Área de Trabalho\\VS Code - Projetos\\DIO\\Projeto\\DIO.Jogos\\DIO.Jogos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\João Gabriel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
